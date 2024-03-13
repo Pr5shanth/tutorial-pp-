@@ -1,0 +1,47 @@
+#c1{
+
+    text-align: center;
+    border: solid black 2px;
+    height: 220px;
+    width: 500px;
+    margin: 40px;
+    background-color: aqua;
+    position: absolute;
+}
+
+
+
+    #c2{
+
+        text-align: center;
+        border: solid black 2px;
+        height: 180px;
+        width: 450px;
+        margin: 60px;
+        background-color: green;
+        position: absolute;
+    }
+    
+
+    #c3{
+
+        text-align: center;
+        border: solid black 2px;
+        height: 140px;
+        width: 400px;
+        margin: 80px;
+        background-color: red;
+        position: absolute;
+    }
+    
+    #c4{
+        text-align: center;
+        border: solid black 2px;
+        height: 100px;
+        width: 350px;
+        margin: 100px;
+        background-color: brown;
+        position: absolute;
+    }
+    
+    

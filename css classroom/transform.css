@@ -1,0 +1,20 @@
+h1{
+
+    text-align: center;
+    background-color: yellow;
+    
+}
+
+img{
+    display: inline-block;
+    width: 150px;
+    height: 120px;
+    margin: 100px;
+    
+}
+
+img:hover{
+
+    transform: scale(1.5);
+    transition: 1.5s;
+}

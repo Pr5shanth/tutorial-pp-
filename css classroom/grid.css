@@ -1,0 +1,43 @@
+
+
+.grid{
+
+    width: 380px;
+    display: grid;
+    grid-template-columns: 70px 240px 70px;
+    grid-gap: 10px;
+    grid-template-rows: 50px 200px 50px;
+}
+
+.item1{
+    background-color: aqua;
+    text-align: center;
+    grid-column: 1/4;
+}
+
+.item2{
+    background-color: brown;
+    text-align: center;
+}
+
+.item3{
+
+    text-align: center;
+    background-color: yellow
+    
+}
+
+.item4{
+
+    background-color: blue;
+    text-align: center;
+}
+
+.item5{
+
+    background-color: green;
+    text-align: center;
+    grid-column: 1/4;
+}
+
+

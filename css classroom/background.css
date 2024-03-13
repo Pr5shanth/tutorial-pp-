@@ -1,0 +1,41 @@
+section{
+
+    border: 1px solid;
+    height: 400px;
+    width: 300px;
+}
+
+
+#doremon:hover
+    {
+    background-image: url(../download\ \(2\).jpg);
+    background-size: 100px;
+}
+
+#chinchan:hover
+{
+    background-image: url(../images.jpg);
+    background-size: 160px;
+}
+
+#ninja:hover{
+    background-image: url(../download\ \(1\).jpg);
+    background-size: 100px;
+
+}
+
+#tom:hover{
+    background-image: url(../download\ \(3\).jpg);
+    background-size: 100px;
+}
+
+#chota:hover{
+    background-image: url(../download\ \(4\).jpg);
+    background-size: 120px;
+}
+
+#pokemon:hover{
+    background-image: url(../download\ \(5\).jpg);
+    background-size: 120px;
+
+}
